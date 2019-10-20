@@ -1,0 +1,8 @@
+﻿E:\tool\vs2017\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+E:\tool\vs2017\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.cpp
+c:\users\霆淞\desktop\hw1\108360239_陳霆淞\4.28\source\main.cpp(28): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\霆淞\desktop\hw1\108360239_陳霆淞\4.28\source\main.cpp(38): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\霆淞\desktop\hw1\108360239_陳霆淞\4.28\source\main.cpp(8): warning C4101: 'k': 未參考的區域變數
+c:\users\霆淞\desktop\hw1\108360239_陳霆淞\4.28\source\main.cpp(8): warning C4101: 'j': 未參考的區域變數
+  HW.vcxproj -> C:\Users\霆淞\Desktop\hw1\108360239_陳霆淞\4.28\HW\HW\..\..\temp\debug\HW.exe
